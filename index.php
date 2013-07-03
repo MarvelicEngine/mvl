@@ -20,3 +20,5 @@ Nokkaew here 0/
 
 I'm not smart man but I know what love is.  
 
+this is footer
+
